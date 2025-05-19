@@ -24,13 +24,24 @@ Security: JWT, bcrypt, CORS protection
 Tools: configs
 
 🚀 Quick Start
+
 bash
+
 git clone https://github.com/Sepehr-khosravi/Authentication-template
+
 cd Authentication-template
+
 npm install.
+
 npm start
+
 Why Use This?
+
 ✅ Saves weeks of development – Focus on your core product.
+
 ✅ Battle-tested security – No rookie mistakes.
+
 ✅ Clear docs – Just clone and deploy.
+
 ✅You can change anything you want.
+
