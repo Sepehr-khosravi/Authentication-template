@@ -7,7 +7,7 @@ app.use(express.static("public"));
 
 //for connection with frontend:
 const cors = require("cors");
-app.use(cors);
+app.use(cors());
 
 //for cybersecerity:
 const helmet = require("helmet");
